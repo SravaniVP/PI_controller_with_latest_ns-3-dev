@@ -1,4 +1,4 @@
-## PI-controller-with-latest-ns-3-dev
+## PI controller with latest ns-3-dev
 
 Proportional Integral (PI) controller is a popular AQM algorithm that forms the basis of
 PIE and PI^2 algorithms. A model for PI in ns-3 was developed in 2016, but hasn’t been
