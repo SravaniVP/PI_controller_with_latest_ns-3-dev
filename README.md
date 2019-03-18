@@ -6,6 +6,8 @@ updated to work on the latest ns-3-dev. Recently, there has been a lot of intere
 PI in the main line of ns-3. This project aims to upgrade the PI implementation in ns-3 so that
 it can be sent for review to ns-3 developers.
 
+### Course Code: CO-365
+### Assignment : SIM-04
 ### Useful Links:
 
 ● ns-3 code for PI (https://github.com/Viyom/Implementation-of-PI-controller-in-ns-3)
